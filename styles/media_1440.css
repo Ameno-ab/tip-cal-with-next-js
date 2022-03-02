@@ -1,0 +1,12 @@
+
+  
+
+
+.card {
+  width: 64%;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+/*# sourceMappingURL=media_1440.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,KAAK,CAAA;EACL,KAAK,EAAE,GAAG;EACV,cAAc,EAAE,GAAG;CAClB",
+    "sources": [
+        "media_1440.scss"
+    ],
+    "names": [],
+    "file": "media_1440.css"
+}

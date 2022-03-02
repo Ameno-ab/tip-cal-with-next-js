@@ -1,7 +1,8 @@
-import '../styles/globals.css'
-
+import '../styles/styles.css'
+import Tip from './tip'
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
-}
-
-export default MyApp
+  return (
+  <Tip/>
+  )
+  }
+export default MyApp;
